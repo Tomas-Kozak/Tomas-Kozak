@@ -1,7 +1,5 @@
 <div align="center" style="display: flex; justify-content: space-between; align: center;"> 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Tomas-Kozak&theme=tokyonight&show_icons=true&count_private=true)
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tomas-Kozak)](https://github.com/anuraghazra/github-readme-stats)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Tomas-Kozak&theme=tokyonight&show_icons=true&count_private=false)
 
 </div>

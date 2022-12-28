@@ -1,5 +1,5 @@
 <div align="center" style="display: flex; justify-content: space-between; align: center;">
-<picture> <img align="center" src="https://github.com/Tomas-Kozak/Tomas-Kozak/blob/main/gif.gif" width=250px></picture>
+<picture> <img align="center" src="https://github.com/Tomas-Kozak/Tomas-Kozak/blob/main/gif.gif" width=3000px></picture>
 </div>
  
 <p align="center">

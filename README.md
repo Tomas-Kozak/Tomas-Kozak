@@ -10,4 +10,4 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tomas-Kozak&theme=violet-punch" alt="xyz" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomas-Kozak&langs_count=5&layout=compact&theme=midnight-purple" alt="xyz" /></p>
 
-<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200px">&nbsp;***About me ....***
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/TEnXkcsHrP4YedChhA" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/art-yes-point-TEnXkcsHrP4YedChhA">via GIPHY</a></p>

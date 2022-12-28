@@ -9,5 +9,3 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Tomas-Kozak&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true" alt="xyz" /></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tomas-Kozak&theme=violet-punch" alt="xyz" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomas-Kozak&langs_count=5&layout=compact&theme=midnight-purple" alt="xyz" /></p>
-
-<iframe src="https://giphy.com/embed/7VzgMsB6FLCilwS30v" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/visuals-network-connectivity-7VzgMsB6FLCilwS30v">via GIPHY</a></p>

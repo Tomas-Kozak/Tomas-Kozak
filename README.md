@@ -8,4 +8,4 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tomas-Kozak&show_icons=true&theme=transparent&count_private=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomas-Kozak)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomas-Kozak&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)

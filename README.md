@@ -1,6 +1,8 @@
 <div align="center" style="display: flex; justify-content: space-between; align: center;">
 <picture> <img align="center" src="https://github.com/Tomas-Kozak/Tomas-Kozak/raw/main/gif.gif" width=250px></picture>
 </div>
+
+![](https://github.com/Tomas-Kozak/Tomas-Kozak/blob/main/gif.gif)
  
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Mathematical+Statistics;ML/DL+Engineering;Data+Science;Advanced+Analytics"></a>

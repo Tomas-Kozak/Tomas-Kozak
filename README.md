@@ -9,3 +9,5 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Tomas-Kozak&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true" alt="xyz" /></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tomas-Kozak&theme=violet-punch" alt="xyz" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomas-Kozak&langs_count=5&layout=compact&theme=midnight-purple" alt="xyz" /></p>
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***

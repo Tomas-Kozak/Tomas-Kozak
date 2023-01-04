@@ -6,7 +6,6 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tomas-Kozak&theme=violet-punch" alt="xyz" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomas-Kozak&langs_count=10&layout=compact&theme=midnight-purple&custom_title=Top+Langs&card_width=450px" alt="xyz" /></p>
 
-
 <div align="center" style="display: flex; justify-content: space-between; align: center;">
 <picture> <img align="center" src="https://github.com/Tomas-Kozak/Tomas-Kozak/blob/main/gif.gif" width=350px></picture>
 </div>

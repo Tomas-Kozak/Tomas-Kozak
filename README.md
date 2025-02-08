@@ -1,5 +1,5 @@
 <div align="center" style="display: flex; justify-content: space-between; align: center;">
-<picture> <img align="center" src="https://github.com/Tomas-Kozak/Tomas-Kozak/blob/main/sym_kd_li.png" width=350px></picture>
+<picture> <img align="center" src="https://github.com/Tomas-Kozak/Tomas-Kozak/blob/main/sym_kd_li.png" width=700px></picture>
 </div>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tomas-Kozak&theme=violet-punch" alt="xyz" /></p>
